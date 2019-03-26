@@ -300,3 +300,403 @@
 {"ts":"2019:03:26:13:16:05","level":"info","message":"[console] data"}
 {"ts":"2019:03:26:13:16:05","level":"info","message":"[console] Contact : 789\r\nFirst Name : Gareth\r\nLast Name : Bale\r\nEmail : sdsd\r\n"}
 {"ts":"2019:03:26:13:16:05","level":"info","message":"Got result: {\"result\":\"Data of  Bale = Contact : 789\\r\\nFirst Name : Gareth\\r\\nLast Name : Bale\\r\\nEmail : sdsd\\r\\n\"}"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:14:36:56","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:01:37","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:01:38","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:01:46","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:01:48","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:02:17","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:02:21","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:02:51","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:03:03","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:03:04","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:03:05","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:03:19","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:03:58","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:04:16","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:05:05","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:05:27","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Assignment/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:15:05:47","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}

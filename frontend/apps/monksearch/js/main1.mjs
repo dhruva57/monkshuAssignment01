@@ -70,14 +70,18 @@ subBtn.onclick = function() {
 
 rAllBtn.onclick = function(){
   here.innerHTML = "";
+  var string="";
   const result =  fetch(APP_CONSTANTS.API_LIST_ALL)
     .then(response => response.json())
     .then(data => {
       console.log(data.result[0]);
       for(var i = 0 ; i < data.result.length; i ++ ){
-        here.append(data.result[i] + "\n");
+        // here.append(data.result[i] + "\n");
+        // string.concat(data.result[i] + "<br>");
+        string +=  data.result[i] + "<br>";
       }
-      
+      console.log(string);
+      here.innerHTML = string;
     })
     .catch(error => console.log(error));
   // const data =  result.json();
