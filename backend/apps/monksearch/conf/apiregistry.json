@@ -1,0 +1,7 @@
+{
+    "/apps/monksearch/listAll" : "/apis/listAll.js",
+    "/apps/monksearch/listOne" : "/apis/listOne.js",
+    "/apps/monksearch/register" : "/apis/register.js",
+    "/apps/monksearch/deleteUser" : "/apis/deleteUser.js",
+    "/apps/monksearch/search" : "/apis/dummy_search.js?get=true"
+}

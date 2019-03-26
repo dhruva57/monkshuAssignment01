@@ -1,0 +1,240 @@
+{"ts":"2019:03:25:18:00:47","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:00:47","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:00:47","level":"error","message":"[stderr] (node:15271) UnhandledPromiseRejectionWarning: /home/deep/Documents/monksearch/backend/apps/monksearch/apis/lib/userid.js:43\n\t\tvar userdata = mob + '\\n' fn + ln +  email;\n\t\t                          ^^\n\nSyntaxError: Unexpected identifier\n    at createScript (vm.js:80:10)\n    at Object.runInThisContext (vm.js:139:10)\n    at Module._compile (module.js:616:28)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Module.require (module.js:596:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (/home/deep/Documents/monksearch/backend/apps/monksearch/apis/register.js:5:16)\n"}
+{"ts":"2019:03:25:18:00:47","level":"error","message":"[stderr] (node:15271) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)\n"}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"*************************************"}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"*************************************"}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"Initializing the API registry."}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"Read API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"Read App API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"Attaching socket listener on 0.0.0.0:9090"}
+{"ts":"2019:03:25:18:01:11","level":"info","message":"Server started on 0.0.0.0:9090"}
+{"ts":"2019:03:25:18:01:33","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:01:33","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:01:33","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:25:18:01:33","level":"info","message":"New user registered: Complete"}
+{"ts":"2019:03:25:18:01:33","level":"info","message":"[console] Created"}
+{"ts":"2019:03:25:18:01:33","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"*************************************"}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"*************************************"}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"Initializing the API registry."}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"Read API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"Read App API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"Attaching socket listener on 0.0.0.0:9090"}
+{"ts":"2019:03:25:18:03:38","level":"info","message":"Server started on 0.0.0.0:9090"}
+{"ts":"2019:03:25:18:04:08","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:04:08","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:04:08","level":"error","message":"[stderr] (node:15421) UnhandledPromiseRejectionWarning: /home/deep/Documents/monksearch/backend/apps/monksearch/apis/lib/userid.js:43\n\t\tvar userdata = mob + /n +  fn + ln +  email;\n\t\t                     ^\n\nSyntaxError: Invalid regular expression: missing /\n    at createScript (vm.js:80:10)\n    at Object.runInThisContext (vm.js:139:10)\n    at Module._compile (module.js:616:28)\n    at Object.Module._extensions..js (module.js:663:10)\n    at Module.load (module.js:565:32)\n    at tryModuleLoad (module.js:505:12)\n    at Function.Module._load (module.js:497:3)\n    at Module.require (module.js:596:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (/home/deep/Documents/monksearch/backend/apps/monksearch/apis/register.js:5:16)\n"}
+{"ts":"2019:03:25:18:04:08","level":"error","message":"[stderr] (node:15421) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)\n"}
+{"ts":"2019:03:25:18:04:08","level":"error","message":"[stderr] (node:15421) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.\n"}
+{"ts":"2019:03:25:18:09:35","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:09:35","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:09:35","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:25:18:09:35","level":"info","message":"New user registered: Bale"}
+{"ts":"2019:03:25:18:09:35","level":"info","message":"[console] Created"}
+{"ts":"2019:03:25:18:09:35","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:25:18:11:36","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:11:36","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:11:36","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:25:18:11:36","level":"info","message":"New user registered: Bale"}
+{"ts":"2019:03:25:18:11:36","level":"info","message":"[console] Created"}
+{"ts":"2019:03:25:18:11:36","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"*************************************"}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"*************************************"}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"Initializing the API registry."}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"Read API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"Read App API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"Attaching socket listener on 0.0.0.0:9090"}
+{"ts":"2019:03:25:18:12:10","level":"info","message":"Server started on 0.0.0.0:9090"}
+{"ts":"2019:03:25:18:12:21","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:12:21","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:12:21","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:25:18:12:21","level":"info","message":"New user registered: Ozil"}
+{"ts":"2019:03:25:18:12:21","level":"info","message":"[console] Created"}
+{"ts":"2019:03:25:18:12:21","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:25:18:12:57","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:12:57","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:12:57","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:25:18:12:57","level":"info","message":"New user registered: Ozil"}
+{"ts":"2019:03:25:18:12:57","level":"info","message":"[console] Created"}
+{"ts":"2019:03:25:18:12:57","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:25:18:13:33","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:13:33","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:13:33","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:25:18:13:33","level":"info","message":"New user registered: Papa Bale"}
+{"ts":"2019:03:25:18:13:33","level":"info","message":"[console] Created"}
+{"ts":"2019:03:25:18:13:33","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:25:18:14:00","level":"info","message":"Got request for the url: /apps/monksearch/listOne"}
+{"ts":"2019:03:25:18:14:00","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listOne.js"}
+{"ts":"2019:03:25:18:14:00","level":"info","message":"[console] data"}
+{"ts":"2019:03:25:18:14:00","level":"info","message":"[console] Contact : 789654\r\nFirst Name : Dhruva\r\nLast Name : Tripathi\r\nEmail : ssds@gmail.com\r\n"}
+{"ts":"2019:03:25:18:14:00","level":"info","message":"Got result: {\"result\":\"Data of  Papa Bale = Contact : 789654\\r\\nFirst Name : Dhruva\\r\\nLast Name : Tripathi\\r\\nEmail : ssds@gmail.com\\r\\n\"}"}
+{"ts":"2019:03:25:18:19:24","level":"info","message":"Got request for the url: /apps/monksearch/listOne"}
+{"ts":"2019:03:25:18:19:24","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listOne.js"}
+{"ts":"2019:03:25:18:19:24","level":"info","message":"[console] data"}
+{"ts":"2019:03:25:18:19:24","level":"info","message":"[console] 5sdd"}
+{"ts":"2019:03:25:18:19:24","level":"info","message":"Got result: {\"result\":\"Data of  nine = 5sdd\"}"}
+{"ts":"2019:03:25:18:19:50","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:25:18:19:50","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:25:18:19:50","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:25:18:19:50","level":"info","message":"New user registered: nine"}
+{"ts":"2019:03:25:18:19:50","level":"info","message":"[console] Created"}
+{"ts":"2019:03:25:18:19:50","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:25:18:19:59","level":"info","message":"Got request for the url: /apps/monksearch/listOne"}
+{"ts":"2019:03:25:18:19:59","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listOne.js"}
+{"ts":"2019:03:25:18:19:59","level":"info","message":"[console] data"}
+{"ts":"2019:03:25:18:19:59","level":"info","message":"[console] Contact : 7896\r\nFirst Name : Ni\r\nLast Name : ne\r\nEmail : sasd@asd.com\r\n"}
+{"ts":"2019:03:25:18:19:59","level":"info","message":"Got result: {\"result\":\"Data of  nine = Contact : 7896\\r\\nFirst Name : Ni\\r\\nLast Name : ne\\r\\nEmail : sasd@asd.com\\r\\n\"}"}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"Initializing the API registry."}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"Read API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"Read App API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"Attaching socket listener on 0.0.0.0:9090"}
+{"ts":"2019:03:26:11:36:24","level":"info","message":"Server started on 0.0.0.0:9090"}
+{"ts":"2019:03:26:11:36:43","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:11:36:43","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:11:36:43","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:11:36:43","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] Bale,Complete,Ozil,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] Ozil"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:11:36:44","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"Ozil\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:11:36:55","level":"info","message":"Got request for the url: /apps/monksearch/listOne"}
+{"ts":"2019:03:26:11:36:55","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listOne.js"}
+{"ts":"2019:03:26:11:36:55","level":"info","message":"[console] data"}
+{"ts":"2019:03:26:11:36:55","level":"info","message":"[console] Contact : 457\r\nFirst Name : Mesut\r\nLast Name : ozil\r\nEmail : none\r\n"}
+{"ts":"2019:03:26:11:36:55","level":"info","message":"Got result: {\"result\":\"Data of  Ozil = Contact : 457\\r\\nFirst Name : Mesut\\r\\nLast Name : ozil\\r\\nEmail : none\\r\\n\"}"}
+{"ts":"2019:03:26:11:37:13","level":"info","message":"Got request for the url: /apps/monksearch/deleteUser"}
+{"ts":"2019:03:26:11:37:13","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/deleteUser.js"}
+{"ts":"2019:03:26:11:37:13","level":"info","message":"[console] Ozil user deleted"}
+{"ts":"2019:03:26:11:37:13","level":"info","message":"Got result: {\"result\":\"Deleted\"}"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] Bale,Complete,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:11:37:17","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:11:37:42","level":"info","message":"Got request for the url: /apps/monksearch/register"}
+{"ts":"2019:03:26:11:37:42","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/register.js"}
+{"ts":"2019:03:26:11:37:42","level":"info","message":"[console]  Saved!"}
+{"ts":"2019:03:26:11:37:42","level":"info","message":"New user registered: M10"}
+{"ts":"2019:03:26:11:37:42","level":"info","message":"[console] Created"}
+{"ts":"2019:03:26:11:37:42","level":"info","message":"Got result: {\"result\":\"Created\"}"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:11:37:48","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:12:15:42","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:15:42","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:15:42","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:26:12:15:42","level":"error","message":"Error: listen EADDRINUSE 0.0.0.0:9090\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at Server.setupListenHandle [as _listen2] (net.js:1367:14)\n    at listenInCluster (net.js:1408:12)\n    at doListen (net.js:1517:7)\n    at _combinedTickCallback (internal/process/next_tick.js:141:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)\n    at Function.Module.runMain (module.js:695:11)\n    at startup (bootstrap_node.js:188:16)\n    at bootstrap_node.js:609:3"}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"Initializing the API registry."}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"Read API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"Read App API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"Attaching socket listener on 0.0.0.0:9090"}
+{"ts":"2019:03:26:12:16:07","level":"info","message":"Server started on 0.0.0.0:9090"}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"Initializing the API registry."}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"Read API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"Read App API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"Attaching socket listener on 0.0.0.0:9090"}
+{"ts":"2019:03:26:12:48:21","level":"info","message":"Server started on 0.0.0.0:9090"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"Looked up service, calling: /home/deep/Documents/monkshu/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:12:48:36","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"*************************************"}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"Logging subsystem initialized."}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"Initializing the API registry."}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"Read API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"Read App API registry: {\n\"/corsProxy\" : \"/apis/corsProxy.js\"\n}"}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"Attaching socket listener on 0.0.0.0:9090"}
+{"ts":"2019:03:26:12:54:51","level":"info","message":"Server started on 0.0.0.0:9090"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"Got request for the url: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"Looked up service, calling: /home/deep/Desktop/Dhruva Practise/Assignment/monkshu/backend/apps/monksearch/apis/listAll.js"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"Input JSON parser error: SyntaxError: Unexpected end of JSON input"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"Bad JSON input, calling with empty object: /apps/monksearch/listAll"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] Bale,Complete,M10,Papa Bale,fifty seven,finally ,five,four,nine,one,register,seven,six,three"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] Bale"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] Complete"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] M10"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] Papa Bale"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] fifty seven"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] finally "}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] five"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] four"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] nine"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] one"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] register"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] seven"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] six"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"[console] three"}
+{"ts":"2019:03:26:12:55:14","level":"info","message":"Got result: {\"result\":[\"Bale\",\"Complete\",\"M10\",\"Papa Bale\",\"fifty seven\",\"finally \",\"five\",\"four\",\"nine\",\"one\",\"register\",\"seven\",\"six\",\"three\"]}"}

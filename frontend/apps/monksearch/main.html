@@ -1,0 +1,136 @@
+<!-- 
+(C) 2015 TekMonks. All rights reserved.
+License: GPL2 - see enclosed license.txt file.
+
+
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="expires" content="-1">
+	
+	<link rel="stylesheet" type="text/css" href="./css/common.css">
+	<link rel="stylesheet" type="text/css" href="./css/main.css">
+
+	<script type="module">
+	import {search_box} from "./components/search-box/search-box.mjs";
+	search_box.register([APP_CONSTANTS.USER_ROLE]);
+	import {data_table} from "./components/data-table/data-table.mjs";
+	data_table.register([APP_CONSTANTS.USER_ROLE]);
+
+	import("./js/main.mjs").then(result => {
+		result.main.bindSearchAndDataTables();
+		window.main = result.main;
+	});
+	</script>
+	
+	<title>{{i18n.Title}}</title>
+</head>
+
+<body>
+
+<div id="navbar">
+	<span id="navitemright" onclick="main.logout()">{{i18n.Logout}}</span>
+</div>
+
+<div class="maincontent">
+	<search-box></search-box>
+	<data-table></data-table>
+</div>
+
+</body>
+</html> -->
+
+
+
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	
+	<title>{{i18n.Title}}</title>
+	<link rel="stylesheet" type="text/css" href="./css/modal.css">
+
+	
+	<!-- <script type="module">
+        import {router} from "/framework/js/router.mjs";
+        router.loadPage(APP_CONSTANTS.MAIN_THTML);
+	</script> -->
+
+	<script type="module" src="./js/modal.mjs"></script>
+	<script type="module" src="./js/main1.mjs"></script>
+</head>
+
+<body>
+<div>
+    <button id="myBtn">
+        {{i18n.Register}}
+    </button>
+    <button id="lOne">
+        {{i18n.Read}}
+    </button>
+    <button id="lAll">
+        {{i18n.ReadAll}}
+    </button>
+    <button id="del">
+        {{i18n.Delete}}
+    </button>
+    <button id="update">
+        {{i18n.Update}}
+    </button>
+</div>
+
+<div id="here"></div>
+
+
+
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+	<span class="close">&times;</span>
+	<div>
+		<input type="text" id="userid" placeholder="{{i18n.Username}}" required>
+	</div>
+	<div>
+		<input type="text" id="con" placeholder="{{i18n.Contact}}" required>
+	</div>
+	<div>
+		<input type="text" id="email" placeholder="{{i18n.Email}}" required>
+	</div>
+	<div>
+		<input type="text" id="fn" placeholder="{{i18n.First}}" required>
+	</div>
+	<div>
+		<input type="text" id="ln" placeholder="{{i18n.Last}}" required>
+	</div>
+	<button id="submit">
+        {{i18n.Submit}}
+    </button>
+  </div>
+
+</div>
+
+<div id="myModal2" class="modal">
+	<div class="modal-content">
+		<span id="close" class="close">&times;</span>
+		<div>
+			<input type="text" id="userN" placeholder="{{i18n.Username}}" required>
+		</div>
+		<button id="submit2">
+        	{{i18n.Submit}}
+    	</button>
+	</div>
+</div>
+	
+</body>
+
+</html>
+
+
+
+    
